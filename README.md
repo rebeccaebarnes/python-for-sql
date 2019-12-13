@@ -11,6 +11,10 @@ There is a supporting blog series that can be found [here](https://rebeccaebarne
 - [Python Basic Data Types II](https://github.com/rebeccaebarnes/python-for-sql/blob/master/python_for_sql_basics.ipynb): tuples, list, dictionaries
 - [Python Control Flow](https://github.com/rebeccaebarnes/python-for-sql/blob/master/python_for_sql_flow.ipynb): if, for, while, range, zip, .format
 - [Python Functions](https://github.com/rebeccaebarnes/python-for-sql/blob/master/python_for_sql_functions.ipynb)
+- [pandas I](https://github.com/rebeccaebarnes/python-for-sql/blob/master/python_for_sql_pandasI.ipynb): reviewing the equivalent of FROM, SELECT, LIMIT and DISTINCT in the Python library, pandas
+
+## Questions/Errors
+If you have any questions that aren't answered in the notebooks, or you notice any errors/mistakes, please [raise an issue](https://github.com/rebeccaebarnes/python-for-sql/issues).
 
 ## Further Practice
 If you'd like some further practice in Python basics and data anlysis in Python you can check out these two free lessons from Udacity:
